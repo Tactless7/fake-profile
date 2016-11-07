@@ -1,0 +1,24 @@
+{
+  "name": "fake-profile",
+  "version": "1.0.0",
+  "description": "Créez un faux profil d'utilisateur qui travaille pour une fausse compagnie qui crée un faux produit, à l'aider de [Faker](http://marak.github.io/faker.js/) !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tactless7/fake-profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tactless7/fake-profile/issues"
+  },
+  "homepage": "https://github.com/Tactless7/fake-profile#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "faker": "^3.1.0",
+    "semantic-ui-css": "^2.2.4"
+  }
+}
